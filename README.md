@@ -1,6 +1,6 @@
 # Customer Booking Prediction
 
-This project predicts whether a customer will complete a flight booking using machine learning based on booking and flight-related features.
+This project aims to predict whether a customer will complete a flight booking based on historical booking data. The dataset includes features such as number of passengers, trip type, purchase lead time, flight details, customer preferences, and booking origin.
 
 ---
 
