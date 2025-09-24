@@ -46,17 +46,10 @@ The project workflow includes:
 
 ---
 
-## How to Run
-
-1. Load the dataset `customer_booking.csv`.
-2. Run the Jupyter Notebook containing the code (e.g., `task2_british_airways.ipynb`).
-3. Follow the steps in the notebook for preprocessing, training, evaluation, and feature importance visualization.
-
----
 
 ## Dependencies
 
-- Python 3.x  
+- Python  
 - pandas  
 - numpy  
 - scikit-learn  
